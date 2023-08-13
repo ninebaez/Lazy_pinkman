@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Inicio_menu.unity
+    guid: c7b8b81f581c4ca408f93f7d1b6b3ca7
+  - enabled: 1
+    path: Assets/SceneLP/Inicio_carga.unity
+    guid: 487a617527a4e0c4b81232c7ba248874
+  - enabled: 1
+    path: Assets/SceneLP/Menu_inicio.unity
+    guid: 6ee47bef35263c04abc2e5ab26b9f4ea
+  - enabled: 1
+    path: Assets/SceneLP/Opciones.unity
+    guid: e849d798955f3d64fbf7e8a949412e0f
+  - enabled: 1
+    path: Assets/SceneLP/Ayuda.unity
+    guid: 88f564c30a4476a458a6c4fc0c215977
+  - enabled: 1
+    path: Assets/SceneLP/Informacion.unity
+    guid: 68838700d593566438e268f0269f9f82
+  - enabled: 1
+    path: Assets/SceneLP/Nivel_1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/SceneLP/Nivel_2.unity
+    guid: 544b8d4d9f5fd9a40bc14dff78252a55
+  - enabled: 1
+    path: Assets/SceneLP/Nivel_3.unity
+    guid: 9759f650c22662d4ebcc29578c3a3c2e
+  - enabled: 1
+    path: Assets/SceneLP/Creditos.unity
+    guid: 79f501b1523db784ca2b7b555ecd982d
+  m_configObjects: {}
